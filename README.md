@@ -1,7 +1,7 @@
 
 <div style="text-align: center; "> <h1> My Companion </h1> </div>
 
-#### Old Name - Student Companion  .
+#### Old Name - Student Companion 
 
 [![CircleCI](https://circleci.com/gh/srv-twry/My-Companion.svg?style=svg)](https://circleci.com/gh/srv-twry/My-Companion)
 
